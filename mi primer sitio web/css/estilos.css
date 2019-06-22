@@ -1,0 +1,58 @@
+body {
+	background:url(../imagenes/bosque1.jpg);
+	background-attachment:fixed;
+	
+}
+a{
+	background:white;
+	color:black;
+	font-size:40px;
+}
+p {
+	font-size:25px;
+}
+h4{
+	font-size:25px;
+}
+h4 {
+	background:aqua;
+	color:black;
+	width:200px;
+}
+p {
+	background:aqua;
+	color:black;
+}
+b p {
+	background:aqua;
+	color:black;
+	width:200px;
+}
+a p {
+	background:aqua;
+	color:black;
+	width:400px;
+}
+li a {
+	background:gray;
+	color:white;
+	font-size:30px;
+}
+
+li {
+width:100%
+background:black;
+list-style:none;
+margin:0;
+padding:0;
+display:inline-bock;
+	
+}
+ul li a {
+	padding:10px 20px;
+}
+li a:hover{
+	background:black;
+	color:grey;
+}
+	
